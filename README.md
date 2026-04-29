@@ -2,7 +2,7 @@
 
 Личный сайт-резюме на GitHub Pages.
 
-**Live:** https://daryankaazain.github.io/CV/
+**Live:** https://daryankaazain.github.io/cv/
 
 ## Структура
 
